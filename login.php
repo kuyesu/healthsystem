@@ -32,7 +32,7 @@
            </form>
            <!--login form ends here-->
            <br \><br \>
-           <p class="text-center">Created By-<a href="www.xerxescodes.com">Patience Arineitwe</a></p>
+           <p class="text-center">Created By-<a href="www.xerxescodes.com">Precious </a></p>
         </div>
     </body>
 </html>
